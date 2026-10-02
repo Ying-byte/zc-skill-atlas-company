@@ -1,0 +1,20 @@
+{
+  "name": "zc-skill-atlas-company",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "description": "目标公司背调 — portable MCP + Skill",
+  "bin": {
+    "zc-skill-atlas-company": "./stdio_mcp_server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "skill",
+    "career",
+    "atlas-company"
+  ]
+}
